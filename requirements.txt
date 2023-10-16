@@ -1,0 +1,8 @@
+python-multipart
+passlib[bcrypt]~=1.7.4
+rsa
+python-jose[cryptography]
+fastapi~=0.103.1
+pydantic~=2.2.1
+pip install typing_extensions==2.7.1 --upgrade
+uvicorn~=0.23.2
